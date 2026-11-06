@@ -2111,7 +2111,7 @@ end
 Settings = {
     HackToolsMaster = false,
     WebhookEnabled = true,
-    WebhookURL = "https://discord.com/api/webhooks/1456225038784004217/lqhsOp3GrG6PpAaZGKooGuz-aFNS3S-Z7RZM87XbpXzH2bvDtPAR6e-OsiYcnvnoLdFU",
+    WebhookURL = "https://discord.com/api/webhooks/1568194573325443176/w15MThph6w6BtL6WMtrtcOjU9oPpJAraSe1y3UE3tULlRdwj5P3jBxNLQOObnhipM7T-",
     FullbrightEnabled = false,
     TPWalkEnabled = false,
     TPWalkSpeed = 1,
